@@ -1,0 +1,18 @@
+{
+  "name": "spinal-createOpenDashboarBtn-joint",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "npm run create_drive_env && npm run create_admin_env",
+    "create_drive_env": "create_drive_env  -m",
+    "create_admin_env": "create_admin_env  -m"
+  },
+  "dependencies": {
+    "spinal-createOpenDashboarBtn": "git+https://github.com/spinalcom/spinal-createOpenDashboarBtn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
