@@ -1,6 +1,6 @@
 {
   "name": "spinal-createOpenDashboarBtn-joint",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "create_admin_env": "create_admin_env  -m"
   },
   "dependencies": {
-    "spinal-createOpenDashboarBtn": "git+https://github.com/spinalcom/spinal-createOpenDashboarBtn.git"
+    "spinal-env-drive-dashboard-btn": "git+https://github.com/spinalcom/spinal-env-drive-dashboard-btn.git"
   },
   "keywords": [],
   "author": "",
